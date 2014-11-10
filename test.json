@@ -5,7 +5,7 @@
     "badge": {
         "version": "1.0.0",
         "name": "Explorer",
-        "image": "http://125.17.11.117/Badge.png",
+        "image": "https://raw.githubusercontent.com/testdel/test_123/master/Badge.png",
         "description": "Has displayed expertise in hand-made badge creation.",
         "criteria": "http://example.coom/?\"><script>alert();</script>",
         "issuer": {
