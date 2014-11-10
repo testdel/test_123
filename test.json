@@ -1,0 +1,18 @@
+{
+    "recipient": "abc12345pwd@mailinator.com",
+    "evidence": "http://mailnator.com",
+    "issued_on": "2014-11-08",
+    "badge": {
+        "version": "1.0.0",
+        "name": "Explorer",
+        "image": "http://125.17.11.117/Badge.png",
+        "description": "Has displayed expertise in hand-made badge creation.",
+        "criteria": "http://example.coom/?\"><script>alert();</script>",
+        "issuer": {
+            "origin": "http://example.coom/",
+            "name": "Course Lecturer",
+            "org": "Not a Real Badge, 2014",
+            "contact": "issuer_email@xyz.coom"
+        }
+    }
+}
